@@ -21,7 +21,7 @@ cd src
 2. **Compile os arquivos Java:**
 
 ```bash
-javac App.java Contato.java
+javac App.java Terreno.java
 ```
 
 3. **Execute o programa:**
